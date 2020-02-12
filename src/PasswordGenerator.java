@@ -1,4 +1,3 @@
-// Evan Lay 3B
 public class PasswordGenerator {
     private String prefix;
     private static int counter = 0;
